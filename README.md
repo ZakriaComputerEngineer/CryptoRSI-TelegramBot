@@ -6,6 +6,7 @@ A Telegram bot that monitors cryptocurrency prices, calculates the Relative Stre
 
 ## **Project Overview**  
 This project is a Telegram bot that provides cryptocurrency market updates and RSI-based alerts for buying or selling coins. It integrates with the CoinGecko API for real-time data and supports automated alerts every four hours.
+
 ![about](https://github.com/user-attachments/assets/79307364-a002-4a42-978e-702f8a60c2b3)
 
 ---
